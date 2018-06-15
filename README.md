@@ -3,16 +3,16 @@
 # 第一阶段：100道easy题
 
 ## Array: 10 easy + Highest Frequency
-1. Two Sum: https://leetcode.com/problems/two-sum/description/
-561. Array Partition I: https://leetcode.com/problems/array-partition-i/description/
-66. Plus One: https://leetcode.com/problems/plus-one/description/
-53. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/description/
-122. Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
-169. Majority Element: https://leetcode.com/problems/majority-element/description/
-283. Move Zeroes: https://leetcode.com/problems/move-zeroes/description/
-121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-217. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/description/
-88. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
+#### 1. Two Sum: https://leetcode.com/problems/two-sum/description/
+#### 561. Array Partition I: https://leetcode.com/problems/array-partition-i/description/
+#### 66. Plus One: https://leetcode.com/problems/plus-one/description/
+#### 53. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/description/
+#### 122. Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+#### 169. Majority Element: https://leetcode.com/problems/majority-element/description/
+#### 283. Move Zeroes: https://leetcode.com/problems/move-zeroes/description/
+#### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+#### 217. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/description/
+#### 88. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
 
 
 ## String: 10 easy + Highest Frequency
