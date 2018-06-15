@@ -52,6 +52,22 @@
 #### 125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/description/
 #### 350. Intersection of Two Arrays II: https://leetcode.com/problems/intersection-of-two-arrays-ii/description/
 
+## Bit Manipulation: 10 easy + Highest Frequency
+#### 136. Single Number: https://leetcode.com/problems/single-number/description/
+#### 461. Hamming Distance: https://leetcode.com/problems/hamming-distance/description/
+#### 371. Sum of Two Integers: https://leetcode.com/problems/sum-of-two-integers/description/
+#### 169. Majority Element: https://leetcode.com/problems/majority-element/description/
+#### 191. Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/description/
+#### 268. Missing Number: https://leetcode.com/problems/missing-number/description/
+#### 476. Number Complement: https://leetcode.com/problems/number-complement/description/
+#### 231. Power of Two: https://leetcode.com/problems/power-of-two/description/
+#### 190. Reverse Bits: https://leetcode.com/problems/reverse-bits/description/
+#### 389. Find the Difference: https://leetcode.com/problems/find-the-difference/description/
+
+
+
+
+
 
 
 
