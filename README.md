@@ -77,3 +77,27 @@
 #### 240. Search a 2D Matrix II: https://leetcode.com/problems/search-a-2d-matrix-ii/description/
 #### 4. Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 
+## Dynamic Programming: 6 easy + 4 medium + 1 hard, Highest Frequency
+#### 53. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/description/
+#### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+#### 70. Climbing Stairs: https://leetcode.com/problems/climbing-stairs/description/
+#### 198. House Robber: https://leetcode.com/problems/house-robber/description/
+#### 303. Range Sum Query - Immutable: https://leetcode.com/problems/range-sum-query-immutable/description/
+#### 746. Min Cost Climbing Stairs: https://leetcode.com/problems/min-cost-climbing-stairs/description/
+#### 5. Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/description/
+#### 338. Counting Bits: https://leetcode.com/problems/counting-bits/description/
+#### 152. Maximum Product Subarray: https://leetcode.com/problems/maximum-product-subarray/description/
+#### 139. Word Break: https://leetcode.com/problems/word-break/description/
+#### 10. Regular Expression Matching: https://leetcode.com/problems/regular-expression-matching/description/
+
+
+
+
+
+
+
+
+
+
+
+
