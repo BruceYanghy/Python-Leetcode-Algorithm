@@ -102,6 +102,35 @@
 #### 164. Maximum Gap: https://leetcode.com/problems/maximum-gap/description/
 #### 296. Best Meeting Point: https://leetcode.com/problems/best-meeting-point/description/
 
+## Tree: 10 easy
+#### 104. Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+#### 226. Invert Binary Tree: https://leetcode.com/problems/invert-binary-tree/description/
+#### 617. Merge Two Binary Trees: https://leetcode.com/problems/merge-two-binary-trees/description/
+#### 100. Same Tree: https://leetcode.com/problems/same-tree/description/
+#### 110. Balanced Binary Tree: https://leetcode.com/problems/balanced-binary-tree/description/
+#### 235. Lowest Common Ancestor of a Binary Search Tree: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+#### 108. Convert Sorted Array to Binary Search Tree: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+#### 669. Trim a Binary Search Tree: https://leetcode.com/problems/trim-a-binary-search-tree/description/
+#### 101. Symmetric Tree: https://leetcode.com/problems/symmetric-tree/description/
+#### 257. Binary Tree Paths: https://leetcode.com/problems/binary-tree-paths/description/
+
+## Hash Table: 10 easy
+#### 771. Jewels and Stones: https://leetcode.com/problems/jewels-and-stones/description/
+#### 463. Island Perimeter: https://leetcode.com/problems/island-perimeter/description/
+#### 219. Contains Duplicate II: https://leetcode.com/problems/contains-duplicate-ii/description/
+#### 242. Valid Anagram: https://leetcode.com/problems/valid-anagram/description/
+#### 760. Find Anagram Mappings: https://leetcode.com/problems/find-anagram-mappings/description/
+#### 500. Keyboard Row: https://leetcode.com/problems/keyboard-row/description/
+#### 387. First Unique Character in a String: https://leetcode.com/problems/first-unique-character-in-a-string/description/
+#### 204. Count Primes: https://leetcode.com/problems/count-primes/description/
+#### 205. Isomorphic Strings: https://leetcode.com/problems/isomorphic-strings/description/
+#### 290. Word Pattern: https://leetcode.com/problems/word-pattern/description/
+
+
+
+
+
+
 
 
 
