@@ -1,6 +1,7 @@
 # Python-Leetcode-Algorithm
 
 # 第一阶段：10个topic 100道easy题 HighestFrequency
+2018/06/16
 
 ## Array: 10 easy
 #### 1. Two Sum: https://leetcode.com/problems/two-sum/description/
