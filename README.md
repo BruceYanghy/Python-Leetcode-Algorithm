@@ -46,7 +46,7 @@
 #### 26. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 #### 27. Remove Element: https://leetcode.com/problems/remove-element/description/
 #### 234. Palindrome Linked List: https://leetcode.com/problems/palindrome-linked-list/description/
-#### 28. Implement strStr(): https://leetcode.com/problems/implement-strstr/description/
+#### 28. 11. Container With Most Water: https://leetcode.com/problems/container-with-most-water/description/
 #### 167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 #### 349. Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/description/
 #### 345. Reverse Vowels of a String: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
