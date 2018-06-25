@@ -131,6 +131,12 @@
 
 
 
+# 第二阶段：10个topic 
+## Array: 10 easy
+#### 485. Max Consecutive Ones: https://leetcode.com/problems/max-consecutive-ones/description/
+
+## String: 10 easy
+## Math: 10 easy
 
 
 
