@@ -46,13 +46,13 @@
 #### 136. Single Number: https://leetcode.com/problems/single-number/description/
 #### 461. Hamming Distance: https://leetcode.com/problems/hamming-distance/description/
 #### 371. Sum of Two Integers: https://leetcode.com/problems/sum-of-two-integers/description/
-#### 169. Majority Element: https://leetcode.com/problems/majority-element/description/
 #### 191. Number of 1 Bits: https://leetcode.com/problems/number-of-1-bits/description/
-#### 268. Missing Number: https://leetcode.com/problems/missing-number/description/
 #### 476. Number Complement: https://leetcode.com/problems/number-complement/description/
 #### 231. Power of Two: https://leetcode.com/problems/power-of-two/description/
 #### 190. Reverse Bits: https://leetcode.com/problems/reverse-bits/description/
 #### 389. Find the Difference: https://leetcode.com/problems/find-the-difference/description/
+#### 401. Binary Watch：https://leetcode.com/problems/binary-watch/description/
+#### 342. Power of Four: https://leetcode.com/problems/power-of-four/description/
 
 ## Binary Search: 4 easy + 6 medium + 1 hard
 #### 167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
@@ -131,6 +131,12 @@
 
 
 
+# 第二阶段：10个topic 
+## Array: 10 easy
+#### 485. Max Consecutive Ones: https://leetcode.com/problems/max-consecutive-ones/description/
+
+## String: 10 easy
+## Math: 10 easy
 
 
 
