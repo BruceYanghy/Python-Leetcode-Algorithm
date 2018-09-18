@@ -5,15 +5,54 @@
 
 ## Array: 10 easy
 #### 1. Two Sum: https://leetcode.com/problems/two-sum/description/
-#### 561. Array Partition I: https://leetcode.com/problems/array-partition-i/description/
-#### 66. Plus One: https://leetcode.com/problems/plus-one/description/
 #### 53. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/description/
+#### 66. Plus One: https://leetcode.com/problems/plus-one/description/
+#### 88. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
+#### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+#### 167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+#### 27. Remove Element: https://leetcode.com/problems/remove-element/description/
+#### 
+#### 
+#### 118. Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/description/
 #### 122. Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 #### 169. Majority Element: https://leetcode.com/problems/majority-element/description/
-#### 283. Move Zeroes: https://leetcode.com/problems/move-zeroes/description/
-#### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 #### 217. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/description/
-#### 88. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
+#### 243. Shortest Word Distance: https://leetcode.com/problems/shortest-word-distance/description/
+#### 283. Move Zeroes: https://leetcode.com/problems/move-zeroes/description/
+
+#### 448. Find All Numbers Disappeared in an Array: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+
+
+#### 561. Array Partition I: https://leetcode.com/problems/array-partition-i/description/
+#### 566. Reshape the Matrix: https://leetcode.com/problems/reshape-the-matrix/description/
+#### 628. Maximum Product of Three Numbers: https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+
+#### 661. Image Smoother: https://leetcode.com/problems/image-smoother/description/
+#### 674. Longest Continuous Increasing Subsequence: https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+
+#### 695. Max Area of Island: https://leetcode.com/problems/max-area-of-island/description/
+#### 697. Degree of an Array: https://leetcode.com/problems/degree-of-an-array/description/
+
+#### 717. 1-bit and 2-bit Characters: https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
+#### 766. Toeplitz Matrix: https://leetcode.com/problems/toeplitz-matrix/description/
+
+
+#### 746. Min Cost Climbing Stairs: https://leetcode.com/problems/min-cost-climbing-stairs/description/
+
+
+#### 830. Positions of Large Groups: https://leetcode.com/problems/positions-of-large-groups/description/
+#### 832. Flipping an Image: https://leetcode.com/problems/flipping-an-image/description/
+#### 867. Transpose Matrix: https://leetcode.com/problems/transpose-matrix/description/
+#### 888. Fair Candy Swap: https://leetcode.com/problems/fair-candy-swap/description/
+
+#### 896. Monotonic Array: https://leetcode.com/problems/monotonic-array/description/
+#### 
+#### 
+#### 905. Sort Array By Parity: https://leetcode.com/problems/sort-array-by-parity/description/
+
+
+
+
 
 
 ## String: 10 easy
