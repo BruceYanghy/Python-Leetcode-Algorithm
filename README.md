@@ -1,53 +1,54 @@
 # Python-Leetcode-Algorithm
 
-# 第一阶段：10个topic 100道easy题 HighestFrequency
+# 第一阶段：Array, String, Math
 2018/06/16
 
 ## Array: 10 easy
 #### 1. Two Sum: https://leetcode.com/problems/two-sum/description/
+#### 26. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+#### 27. Remove Element: https://leetcode.com/problems/remove-element/description/
+#### 35. Search Insert Position: https://leetcode.com/problems/search-insert-position/description/
 #### 53. Maximum Subarray: https://leetcode.com/problems/maximum-subarray/description/
 #### 66. Plus One: https://leetcode.com/problems/plus-one/description/
 #### 88. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
-#### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
-#### 167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
-#### 27. Remove Element: https://leetcode.com/problems/remove-element/description/
-#### 
-#### 
 #### 118. Pascal's Triangle: https://leetcode.com/problems/pascals-triangle/description/
+#### 119. Pascal's Triangle II: https://leetcode.com/problems/pascals-triangle-ii/description/
+#### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 #### 122. Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+#### 167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 #### 169. Majority Element: https://leetcode.com/problems/majority-element/description/
+#### 189. Rotate Array: https://leetcode.com/problems/rotate-array/description/
 #### 217. Contains Duplicate: https://leetcode.com/problems/contains-duplicate/description/
+#### 219. Contains Duplicate II: https://leetcode.com/problems/contains-duplicate-ii/description/
 #### 243. Shortest Word Distance: https://leetcode.com/problems/shortest-word-distance/description/
 #### 283. Move Zeroes: https://leetcode.com/problems/move-zeroes/description/
-
+#### 414. Third Maximum Number: https://leetcode.com/problems/third-maximum-number/description/
 #### 448. Find All Numbers Disappeared in an Array: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
-
-
+#### 532. K-diff Pairs in an Array: https://leetcode.com/problems/k-diff-pairs-in-an-array/description/
 #### 561. Array Partition I: https://leetcode.com/problems/array-partition-i/description/
 #### 566. Reshape the Matrix: https://leetcode.com/problems/reshape-the-matrix/description/
+#### 581. Shortest Unsorted Continuous Subarray: https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/
+#### 605. Can Place Flowers: https://leetcode.com/problems/can-place-flowers/description/
+#### 624. Maximum Distance in Arrays: https://leetcode.com/problems/maximum-distance-in-arrays/description/
 #### 628. Maximum Product of Three Numbers: https://leetcode.com/problems/maximum-product-of-three-numbers/description/
-
+#### 643. Maximum Average Subarray I: https://leetcode.com/problems/maximum-average-subarray-i/description/
+#### 665. Non-decreasing Array: https://leetcode.com/problems/non-decreasing-array/description/
 #### 661. Image Smoother: https://leetcode.com/problems/image-smoother/description/
 #### 674. Longest Continuous Increasing Subsequence: https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
-
 #### 695. Max Area of Island: https://leetcode.com/problems/max-area-of-island/description/
 #### 697. Degree of an Array: https://leetcode.com/problems/degree-of-an-array/description/
-
 #### 717. 1-bit and 2-bit Characters: https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
+#### 724. Find Pivot Index: https://leetcode.com/problems/find-pivot-index/description/
 #### 766. Toeplitz Matrix: https://leetcode.com/problems/toeplitz-matrix/description/
-
-
 #### 746. Min Cost Climbing Stairs: https://leetcode.com/problems/min-cost-climbing-stairs/description/
-
-
+#### 747. Largest Number At Least Twice of Others: https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 #### 830. Positions of Large Groups: https://leetcode.com/problems/positions-of-large-groups/description/
 #### 832. Flipping an Image: https://leetcode.com/problems/flipping-an-image/description/
+#### 840. Magic Squares In Grid: https://leetcode.com/problems/magic-squares-in-grid/description/
+#### 849. Maximize Distance to Closest Person: https://leetcode.com/problems/maximize-distance-to-closest-person/description/
 #### 867. Transpose Matrix: https://leetcode.com/problems/transpose-matrix/description/
 #### 888. Fair Candy Swap: https://leetcode.com/problems/fair-candy-swap/description/
-
 #### 896. Monotonic Array: https://leetcode.com/problems/monotonic-array/description/
-#### 
-#### 
 #### 905. Sort Array By Parity: https://leetcode.com/problems/sort-array-by-parity/description/
 
 
@@ -81,6 +82,7 @@
 #### 69. Sqrt(x): https://leetcode.com/problems/sqrtx/discuss/25047/A-Binary-Search-Solution
 
 
+# 第二阶段：10个topic 100道easy题 HighestFrequency
 ## Bit Manipulation: 10 easy
 #### 136. Single Number: https://leetcode.com/problems/single-number/description/
 #### 461. Hamming Distance: https://leetcode.com/problems/hamming-distance/description/
