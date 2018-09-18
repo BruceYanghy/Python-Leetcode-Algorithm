@@ -96,16 +96,36 @@
 
 
 ## Math: 10 easy
-#### 9. Palindrome Number: https://leetcode.com/problems/palindrome-number/description/
 #### 7. Reverse Integer: https://leetcode.com/problems/reverse-integer/description/
-#### 258. Add Digits: https://leetcode.com/problems/add-digits/description/
-#### 202. Happy Number: https://leetcode.com/problems/happy-number/description/
-#### 172. Factorial Trailing Zeroes: https://leetcode.com/problems/factorial-trailing-zeroes/description/
+#### 9. Palindrome Number: https://leetcode.com/problems/palindrome-number/description/
+#### 69. Sqrt(x)： https://leetcode.com/problems/sqrtx/description/
+#### 168. Excel Sheet Column Title： https://leetcode.com/problems/excel-sheet-column-title/description/
 #### 171. Excel Sheet Column Number: https://leetcode.com/problems/excel-sheet-column-number/description/
-#### 326. Power of Three: https://leetcode.com/problems/power-of-three/description/
+#### 172. Factorial Trailing Zeroes: https://leetcode.com/problems/factorial-trailing-zeroes/description/
+#### 202. Happy Number: https://leetcode.com/problems/happy-number/description/
+#### 204. Count Primes： https://leetcode.com/problems/count-primes/description/
+#### 246. Strobogrammatic Number： https://leetcode.com/problems/strobogrammatic-number/description/
+#### 258. Add Digits: https://leetcode.com/problems/add-digits/description/
+#### 263. Ugly Number： https://leetcode.com/problems/ugly-number/description/
 #### 268. Missing Number: https://leetcode.com/problems/missing-number/description/
+#### 326. Power of Three: https://leetcode.com/problems/power-of-three/description/
+#### 367. Valid Perfect Square： https://leetcode.com/problems/valid-perfect-square/description/
+#### 400. Nth Digit： https://leetcode.com/problems/nth-digit/description/
+#### 415. Add Strings： https://leetcode.com/problems/add-strings/description/
+#### 441. Arranging Coins： https://leetcode.com/problems/arranging-coins/description/
+#### 453. Minimum Moves to Equal Array Elements： https://leetcode.com/problems/minimum-moves-to-equal-array-elements/description/
+#### 507. Perfect Number： https://leetcode.com/problems/perfect-number/description/
+#### 598. Range Addition II：https://leetcode.com/problems/range-addition-ii/description/
+#### 628. Maximum Product of Three Numbers： https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+#### 633. Sum of Square Numbers： https://leetcode.com/problems/sum-of-square-numbers/description/
+#### 645. Set Mismatch： https://leetcode.com/problems/set-mismatch/description/
 #### 728. Self Dividing Numbers: https://leetcode.com/problems/self-dividing-numbers/description/
-#### 69. Sqrt(x): https://leetcode.com/problems/sqrtx/discuss/25047/A-Binary-Search-Solution
+#### 800. Similar RGB Color： https://leetcode.com/problems/similar-rgb-color/description/
+#### 812. Largest Triangle Area：https://leetcode.com/problems/largest-triangle-area/description/
+#### 836. Rectangle Overlap： https://leetcode.com/problems/rectangle-overlap/description/
+#### 868. Binary Gap： https://leetcode.com/problems/binary-gap/description/
+#### 883. Projection Area of 3D Shapes：https://leetcode.com/problems/projection-area-of-3d-shapes/description/
+#### 892. Surface Area of 3D Shapes： https://leetcode.com/problems/surface-area-of-3d-shapes/description/
 
 
 # 第二阶段：10个topic 100道easy题 HighestFrequency
