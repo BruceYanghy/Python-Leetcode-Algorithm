@@ -1,9 +1,9 @@
 # Python-Leetcode-Algorithm
 
-# 第一阶段：Array, String, Math
+# 第一阶段：Array, String, Math三大Topic，金融类公司高频题
 2018/06/16
 
-## Array: 10 easy
+## Array: 48 easy
 #### 1. Two Sum: https://leetcode.com/problems/two-sum/description/
 #### 26. Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 #### 27. Remove Element: https://leetcode.com/problems/remove-element/description/
