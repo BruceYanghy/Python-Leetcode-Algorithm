@@ -98,12 +98,16 @@
 ## Math: 10 easy
 #### 7. Reverse Integer: https://leetcode.com/problems/reverse-integer/description/
 #### 9. Palindrome Number: https://leetcode.com/problems/palindrome-number/description/
+#### 13. Roman to Integer： https://leetcode.com/problems/roman-to-integer/description/
+#### 66. Plus One： https://leetcode.com/problems/plus-one/description/
+#### 67. Add Binary： https://leetcode.com/problems/add-binary/description/
 #### 69. Sqrt(x)： https://leetcode.com/problems/sqrtx/description/
 #### 168. Excel Sheet Column Title： https://leetcode.com/problems/excel-sheet-column-title/description/
 #### 171. Excel Sheet Column Number: https://leetcode.com/problems/excel-sheet-column-number/description/
 #### 172. Factorial Trailing Zeroes: https://leetcode.com/problems/factorial-trailing-zeroes/description/
 #### 202. Happy Number: https://leetcode.com/problems/happy-number/description/
 #### 204. Count Primes： https://leetcode.com/problems/count-primes/description/
+#### 231. Power of Two： https://leetcode.com/problems/power-of-two/description/
 #### 246. Strobogrammatic Number： https://leetcode.com/problems/strobogrammatic-number/description/
 #### 258. Add Digits: https://leetcode.com/problems/add-digits/description/
 #### 263. Ugly Number： https://leetcode.com/problems/ugly-number/description/
