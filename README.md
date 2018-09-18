@@ -57,15 +57,41 @@
 
 ## String: 10 easy
 #### 13. Roman to Integer: https://leetcode.com/problems/roman-to-integer/description/
-#### 344. Reverse String: https://leetcode.com/problems/reverse-string/description/
 #### 14. Longest Common Prefix: https://leetcode.com/problems/longest-common-prefix/description/
 #### 20. Valid Parentheses: https://leetcode.com/problems/valid-parentheses/description/
-#### 38. Count and Say: https://leetcode.com/problems/count-and-say/description/
-#### 67. Add Binary: https://leetcode.com/problems/add-binary/description/
-#### 657. Judge Route Circle: https://leetcode.com/problems/judge-route-circle/description/
 #### 28. Implement strStr(): https://leetcode.com/problems/implement-strstr/description/
-#### 557. Reverse Words in a String III: https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+#### 38. Count and Say: https://leetcode.com/problems/count-and-say/description/
+#### 58. Length of Last Word： https://leetcode.com/problems/length-of-last-word/description/
+#### 67. Add Binary: https://leetcode.com/problems/add-binary/description/
+#### 157. Read N Characters Given Read4： https://leetcode.com/problems/read-n-characters-given-read4/description/
+#### 293. Flip Game： https://leetcode.com/problems/flip-game/description/
+#### 344. Reverse String: https://leetcode.com/problems/reverse-string/description/
+#### 345. Reverse Vowels of a String： https://leetcode.com/problems/reverse-vowels-of-a-string/description/
 #### 383. Ransom Note: https://leetcode.com/problems/ransom-note/description/
+#### 387. First Unique Character in a String： https://leetcode.com/problems/first-unique-character-in-a-string/description/
+#### 408. Valid Word Abbreviation： https://leetcode.com/problems/valid-word-abbreviation/description/
+#### 434. Number of Segments in a String： https://leetcode.com/problems/number-of-segments-in-a-string/description/
+#### 443. String Compression： https://leetcode.com/problems/string-compression/description/
+#### 459. Repeated Substring Pattern： https://leetcode.com/problems/repeated-substring-pattern/description/
+#### 520. Detect Capital： https://leetcode.com/problems/detect-capital/description/
+#### 521. Longest Uncommon Subsequence I： https://leetcode.com/problems/longest-uncommon-subsequence-i/description/
+#### 541. Reverse String II： https://leetcode.com/problems/reverse-string-ii/description/
+#### 551. Student Attendance Record I： https://leetcode.com/problems/student-attendance-record-i/description/
+#### 557. Reverse Words in a String III: https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+#### 606. Construct String from Binary Tree： https://leetcode.com/problems/construct-string-from-binary-tree/description/
+#### 657. Judge Route Circle: https://leetcode.com/problems/judge-route-circle/description/
+#### 680. Valid Palindrome II： https://leetcode.com/problems/valid-palindrome-ii/description/
+#### 686. Repeated String Match： https://leetcode.com/problems/repeated-string-match/description/
+#### 696. Count Binary Substrings： https://leetcode.com/problems/count-binary-substrings/description/
+#### 709. To Lower Case： https://leetcode.com/problems/to-lower-case/description/
+#### 758. Bold Words in String： https://leetcode.com/problems/bold-words-in-string/description/
+#### 788. Rotated Digits： https://leetcode.com/problems/rotated-digits/description/
+#### 800. Similar RGB Color： https://leetcode.com/problems/similar-rgb-color/description/
+#### 804. Unique Morse Code Words： https://leetcode.com/problems/unique-morse-code-words/description/
+#### 819. Most Common Word： https://leetcode.com/problems/most-common-word/description/
+#### 824. Goat Latin： https://leetcode.com/problems/goat-latin/description/
+#### 859. Buddy Strings： https://leetcode.com/problems/buddy-strings/description/
+#### 893. Groups of Special-Equivalent Strings： https://leetcode.com/problems/groups-of-special-equivalent-strings/description/
 
 
 ## Math: 10 easy
