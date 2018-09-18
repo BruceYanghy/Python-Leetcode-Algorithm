@@ -1,6 +1,6 @@
 # Python-Leetcode-Algorithm
 
-# 第一阶段：Array, String, Math三大Topic，金融类公司高频题
+# 第一阶段：Array, String, Math三大Topic金融类公司高频题
 2018/06/16
 
 ## Array: 48 easy
