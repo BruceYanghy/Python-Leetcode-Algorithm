@@ -15,6 +15,7 @@
 #### 119. Pascal's Triangle II: https://leetcode.com/problems/pascals-triangle-ii/description/
 #### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 #### 122. Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+#### 125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/description/
 #### 167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 #### 169. Majority Element: https://leetcode.com/problems/majority-element/description/
 #### 189. Rotate Array: https://leetcode.com/problems/rotate-array/description/
