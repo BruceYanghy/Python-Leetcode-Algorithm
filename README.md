@@ -15,7 +15,6 @@
 #### 119. Pascal's Triangle II: https://leetcode.com/problems/pascals-triangle-ii/description/
 #### 121. Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 #### 122. Best Time to Buy and Sell Stock II: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
-#### 125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/description/
 #### 167. Two Sum II - Input array is sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 #### 169. Majority Element: https://leetcode.com/problems/majority-element/description/
 #### 189. Rotate Array: https://leetcode.com/problems/rotate-array/description/
@@ -64,6 +63,7 @@
 #### 38. Count and Say: https://leetcode.com/problems/count-and-say/description/
 #### 58. Length of Last Word： https://leetcode.com/problems/length-of-last-word/description/
 #### 67. Add Binary: https://leetcode.com/problems/add-binary/description/
+#### 125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/description/
 #### 157. Read N Characters Given Read4： https://leetcode.com/problems/read-n-characters-given-read4/description/
 #### 293. Flip Game： https://leetcode.com/problems/flip-game/description/
 #### 344. Reverse String: https://leetcode.com/problems/reverse-string/description/
