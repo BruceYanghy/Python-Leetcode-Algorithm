@@ -1,9 +1,9 @@
 # Python-Leetcode-Algorithm
 
-# 第一阶段：Array, String, Math, BFS, DFS最高频10道
+# 第一阶段：Array, String, Math, BFS, DFS最高频65题
 2019/09/03
 
-## Array: 14 Highest Frequency
+## Array: 14
 #### 1. Two Sum: https://leetcode.com/problems/two-sum/description/
 #### 4. Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/
 #### 11. Container With Most Water: https://leetcode.com/problems/container-with-most-water/
@@ -20,7 +20,7 @@
 #### 88. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
 
 
-## String: 10 Highest Frequency
+## String: 10
 #### 13. Roman to Integer: https://leetcode.com/problems/roman-to-integer/description/
 #### 6. ZigZag Conversion: https://leetcode.com/problems/zigzag-conversion/
 #### 344. Reverse String: https://leetcode.com/problems/reverse-string/description/
@@ -33,7 +33,7 @@
 #### 22. Generate Parentheses: https://leetcode.com/problems/generate-parentheses/
 
 
-## Math: 34 easy
+## Math: 10
 #### 2. Add Two Numbers: https://leetcode.com/problems/add-two-numbers/
 #### 13. Roman to Integer： https://leetcode.com/problems/roman-to-integer/description/
 #### 9. Palindrome Number: https://leetcode.com/problems/palindrome-number/description/
@@ -45,7 +45,7 @@
 #### 202. Happy Number: https://leetcode.com/problems/happy-number/description/
 #### 67. Add Binary： https://leetcode.com/problems/add-binary/description/
 
-## BFS:
+## BFS: 7
 #### 200. Number of Islands: https://leetcode.com/problems/number-of-islands/
 #### 279. Perfect Squares: https://leetcode.com/problems/number-of-islands/
 #### 301. Remove Invalid Parentheses: https://leetcode.com/problems/remove-invalid-parentheses/
@@ -54,7 +54,7 @@
 #### 127. Word Ladder: https://leetcode.com/problems/word-ladder/
 #### 199. Binary Tree Right Side View: https://leetcode.com/problems/binary-tree-right-side-view/
 
-## DFS:
+## DFS: 15
 #### 104. Maximum Depth of Binary Tree: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 #### 200. Number of Islands: https://leetcode.com/problems/number-of-islands/
 #### 108. Convert Sorted Array to Binary Search Tree: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
@@ -71,7 +71,7 @@
 #### 199. Binary Tree Right Side View: https://leetcode.com/problems/binary-tree-right-side-view/
 #### 109. Convert Sorted List to Binary Search Tree: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
 
-## Binary Search:
+## Binary Search: 9
 #### 4. Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/
 #### 50. Pow(x, n): https://leetcode.com/problems/powx-n/
 #### 33. Search in Rotated Sorted Array: https://leetcode.com/problems/search-in-rotated-sorted-array/
