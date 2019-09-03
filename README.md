@@ -1,6 +1,6 @@
 # Python-Leetcode-Algorithm
 
-# 第一阶段：Array, String, Math, BFS, DFS最高频65题
+# 第一阶段：Array, String, Math, BFS, DFS, Binary Search最高频65题
 2019/09/03
 
 ## Array: 14
