@@ -47,7 +47,7 @@
 
 ## BFS: 7
 #### 200. Number of Islands: https://leetcode.com/problems/number-of-islands/
-#### 279. Perfect Squares: https://leetcode.com/problems/number-of-islands/
+#### 279. Perfect Squares: https://leetcode.com/problems/perfect-squares/
 #### 301. Remove Invalid Parentheses: https://leetcode.com/problems/remove-invalid-parentheses/
 #### 101. Symmetric Tree: https://leetcode.com/problems/symmetric-tree/
 #### 102. Binary Tree Level Order Traversal: https://leetcode.com/problems/binary-tree-level-order-traversal/
